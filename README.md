@@ -25,7 +25,7 @@ In this project, I've employed various React concepts, including:
 
 - **React Components**: I structured the user interface into reusable components to maintain a clean and modular codebase. Components such as `Header`, `ProductCard`, and `Footer` make the code more maintainable and organized.
 
-- **React Hooks**: To manage state and side-effects efficiently, I harnessed the power of React hooks like `useState`, `useEffect`, and `useContext`. These hooks helped in maintaining component-level state and orchestrating data fetching and updates seamlessly.
+- **React Hooks**: To manage state and side-effects efficiently, I harnessed the power of React hooks like `useState`. These hooks helped in maintaining component-level state and orchestrating data fetching and updates seamlessly.
 
 
 ## Learning Journey
